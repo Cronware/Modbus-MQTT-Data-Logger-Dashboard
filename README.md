@@ -1,10 +1,10 @@
 # Modbus/MQTT Data Logger Dashboard
 
-![image](https://github.com/user-attachments/assets/a379d9e3-f82a-4cf1-9097-26d7e9d1f00f)
-
 ## 📌 Overview
 The Industrial Sensor Data Logger & Dashboard is a WinForms application that connects to industrial sensors using MQTT and Modbus TCP/IP, logs sensor data into a SQLite database, and visualizes real-time trends using LiveCharts.
 The app provides features for data logging, chart visualization, historical data export, and alert notifications based on user-defined thresholds.
+
+![image](https://github.com/user-attachments/assets/a379d9e3-f82a-4cf1-9097-26d7e9d1f00f)
 
 ## 🎯 Features
 - ✅ Supports both MQTT and Modbus (switchable via UI)
