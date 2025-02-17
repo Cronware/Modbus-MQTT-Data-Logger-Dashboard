@@ -398,3 +398,23 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Visual Studio & .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.exe
+*.dll
+
+# Arduino
+*.hex
+*.elf
+*.eep
+build/
+
+# SQLite Database
+sensor_data.db
+*.sqlite
